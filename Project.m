@@ -18,4 +18,3 @@ resistor_values = [1450,0, -200,-500,0;
         0,0,0,0,1600];
 voltage = [9;9;0;0;0];
 I5 = (resistor_values\voltage)
-
