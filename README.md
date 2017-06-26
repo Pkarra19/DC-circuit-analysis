@@ -4,3 +4,8 @@ You have been assigned by an electronics manufacturer to analyze the circuit sho
 ## 2.1 Objective
 Find the current through each component in the system, and check to make sure the selected component will not fail.
 ## 2.2 Tips for solving
+* Use Kirchhoff's voltage and current rules to construct the system of linear equations.
+* Label each component and assume a direction for each current that passes through it.
+* If a voltage loop goes in the direction opposite the current through a resistor, add the voltage instead of subtracting it.
+* Check that your voltage loops and current nodes cover all the components in the circuit.
+* Use a loop or a node that you didn't use in your system of equations to check your answer.
